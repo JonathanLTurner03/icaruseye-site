@@ -1,0 +1,7 @@
+@use "bootstrap/scss/bootstrap" as *;
+
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;   /* kill page scroll */
+}
