@@ -15,7 +15,7 @@
             <h2><i class="bi bi-key"></i> Key Features</h2>
             <ul>
                 <li>Custom-trained YOLOv8s model on <a
-                        href="https://github.com/VisDrone/VisDrone2019-Detection-Benchmark">VisDrone2019 dataset <i
+                        href="https://github.com/VisDrone/VisDrone-Dataset" target="_blank">VisDrone2019 dataset <i
                             class="bi bi-box-arrow-up-right"></i></a>.</li>
                 <li>Real-time adjustment of detection parameters, including confidence thresholds and NMS settings.</li>
                 <li>Supports multiple object tracking with Ultralytics ByteTrack</li>
